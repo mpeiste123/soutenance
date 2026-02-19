@@ -1,0 +1,23 @@
+[2026-02-19 12:35:00.086][INFO] Bootstrap start (RunId=20260219_123455) Root=C:\ATLAS\INBOX\dev\Soutenance_AJC
+[2026-02-19 12:35:00.103][OK] DIR  created: C:\ATLAS\INBOX\dev\Soutenance_AJC\docs
+[2026-02-19 12:35:00.145][OK] DIR  created: C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\slides
+[2026-02-19 12:35:00.181][OK] DIR  created: C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel
+[2026-02-19 12:35:00.209][OK] DIR  created: C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel\pages
+[2026-02-19 12:35:00.238][OK] DIR  created: C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel\css
+[2026-02-19 12:35:00.271][OK] DIR  created: C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel\assets
+[2026-02-19 12:35:00.300][OK] DIR  created: C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\vocalendar
+[2026-02-19 12:35:00.441][OK] FILE write : C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\index.html (bytes=429)
+[2026-02-19 12:35:00.473][OK] FILE write : C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\slides\index.html (bytes=333)
+[2026-02-19 12:35:00.504][OK] FILE ensured: C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\slides\soutenance.pdf
+[2026-02-19 12:35:00.533][OK] FILE write : C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel\index.html (bytes=292)
+[2026-02-19 12:35:00.566][OK] FILE write : C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\vocalendar\index.html (bytes=277)
+[2026-02-19 12:35:00.601][OK] FILE write : C:\ATLAS\INBOX\dev\Soutenance_AJC\README.md (bytes=346)
+[2026-02-19 12:35:00.651][INFO] GITKEEP   : skip (dir not empty) C:\ATLAS\INBOX\dev\Soutenance_AJC\docs
+[2026-02-19 12:35:00.678][INFO] GITKEEP   : skip (dir not empty) C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\slides
+[2026-02-19 12:35:00.706][INFO] GITKEEP   : skip (dir not empty) C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel
+[2026-02-19 12:35:00.743][OK] GITKEEP   : added to empty dir C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel\pages
+[2026-02-19 12:35:00.778][OK] GITKEEP   : added to empty dir C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel\css
+[2026-02-19 12:35:00.818][OK] GITKEEP   : added to empty dir C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\tunnel\assets
+[2026-02-19 12:35:00.851][INFO] GITKEEP   : skip (dir not empty) C:\ATLAS\INBOX\dev\Soutenance_AJC\docs\vocalendar
+[2026-02-19 12:35:00.891][OK] Bootstrap done.
+[2026-02-19 12:35:00.917][INFO] Log file: C:\ATLAS\INBOX\dev\Soutenance_AJC\_logs\bootstrap_repo_20260219_123455.log
