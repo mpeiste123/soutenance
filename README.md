@@ -16,17 +16,17 @@ pour l'étude de cas **Client CDR**:
 
 
 ## objectif ce qu le jury doit comprendre (objectif pédagogique)
-Les Chaudronneriees est un lieu de tournage/événementiel , nous exposons :
+le client CDR est un lieu de tournage/événementiel , nous exposons :
 
 - ### Le problème :
- une planification manuelle(mssages, appels , notes) + l'utilisation de Whatsapp --> **erreurs**
+ une planification manuelle(messages, appels , notes) + l'utilisation de Whatsapp --> **erreurs**
 **doublons**, **pertes d'information**, **décalage du calendrier** et **lenteur commerciale**
 
 - ### La Réponse cible:
  une plateforme ominicanale "low friction" qui conserve les usages en cours
 (Google Calendar, WhatsApp) tout en apportant :
 
-        -un **parcours Web qualifié**
+        - un **parcours Web qualifié**
          (demande --> préréservation --> pipeline)
         -un assistant vocal qui accélère la création et la modification 
            d'évènements et fiabilise le calendrier.
