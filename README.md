@@ -1,6 +1,19 @@
 
 
-# Soutenance AJC
+# Soutenance AJC-Les Chaudronneries(Vrs une plateforme omnicale)
+
+Ce dépôt contient le **support complet de la soutenance**
+pour l'étude de cas **les Chaudronneries**:
+- **Cadrage et pilotage** d'une transformation digitale visant à 
+   **réduire la friction de planification** et fiabiliser l'informmation,via :
+   -**un tunnel web**(demande/devi/prérésevation) déployé en statique.
+   -une **démonstration vocalendar**(assistant vocal Whatsapp --> STT --> Google Calendar) présentée en vidéo avec des preuves à l'appui.
+   
+- objectif de la soutenance : démontrer une démarche **Chef de Projet IT** (cadrage, gouvernance, planning, risques, coûts, KPI, conduite du changement) + preuves de faisabilité (MVP).
+
+
+
+
 
 ## objectif
 Les Chaudronneriees est un lieu de tournage/événementiel , nous exposons :
