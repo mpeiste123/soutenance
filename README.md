@@ -1,9 +1,9 @@
 
 
-# Soutenance AJC-Les Chaudronneries(Vrs une plateforme omnicale)
+# Soutenance AJC- client CDR(Vers une plateforme omnicanale)
 
 Ce dépôt contient le **support complet de la soutenance**
-pour l'étude de cas **les Chaudronneries**:
+pour l'étude de cas **Client CDR**:
 - **Cadrage et pilotage** d'une transformation digitale visant à 
    **réduire la friction de planification** , fiabiliser l'information,**accélérer le cycle commercial** (demande → devis → pré-réservation),via :
    -**un tunnel web**(demande/devi/prérésevation) déployé en statique.
